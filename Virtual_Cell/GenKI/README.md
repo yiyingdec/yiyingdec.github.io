@@ -257,13 +257,4 @@ This ensured compatibility with the latest installed GenKI version while preserv
 
 ---
 
-# Future Work
 
-This repository will be continuously expanded with additional virtual cell projects, including
-
-- MetaCell
-- CellOracle
-- SCENIC
-- CellPhoneDB
-
-Together, these projects will build a comprehensive portfolio in virtual cell modeling, gene regulatory network analysis, and AI-driven computational biology.
