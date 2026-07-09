@@ -128,19 +128,7 @@ metacell_assignment.csv
 - Pandas
 - Matplotlib
 
----
 
-## Repository Structure
-
-```
-MetaCell/
-│
-├── blobs/
-├── figures/
-├── results/
-├── metacell.py
-└── README.md
-```
 
 ---
 
